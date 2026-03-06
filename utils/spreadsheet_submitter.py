@@ -43,3 +43,31 @@ class GoogleSheetsSubmitter:
         ).execute()
 
         print(f"[INFO] Stats for {date_header} successfully written to Column {col_letter}.")
+
+    def write_dataframe(self, df):
+        """
+        Writes the full DataFrame to the sheet, with headers in row 1.
+        """
+        service = build('sheets', 'v4', credentials=self.credentials)
+        sheet = service.spreadsheets()
+
+        # Clear existing content first
+        sheet.values().clear(
+            spreadsheetId=self.spreadsheet_id,
+            range=self.tab_name
+        ).execute()
+
+        # Build rows: header + data
+        headers = df.columns.tolist()
+        rows = df.fillna("").astype(str).values.tolist()
+        values = [headers] + rows
+
+        sheet.values().update(
+            spreadsheetId=self.spreadsheet_id,
+            range=f"{self.tab_name}!A1",
+            valueInputOption="USER_ENTERED",
+            body={"values": values}
+        ).execute()
+
+        print(f"[INFO] Written {len(rows)} rows x {len(headers)} cols to '{self.tab_name}'.")
+        return 200

@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>abtholot@gmail.com - Kit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="convertkit_features" content="sentry_reporting,presence_tracking" inertia />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="eEktK4GJxVoj9M-vlgVyC8Fl_hxoKPNa7iVlcLldqCVA8b9pp2NhMJ55W3AQoiDpa_8C88BI3sFaP2bSqusXtg" />
+
+  <link rel="stylesheet" href="https://cdn.kit.com/assets/application-655ff2d24c1e51402890400bd4c5faf971e1aa7771d55d85470e6a88067a5711.css" media="all" />
+  
+<link rel="stylesheet" crossorigin="" href="https://cdn.kit.com/vite/assets/style-nDyQ5z7s.css" media="screen" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+<script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+  if (
+    navigator.userAgent.indexOf("Safari") != -1 &&
+    navigator.userAgent.indexOf("Chrome") == -1 &&
+    (navigator.userAgent.indexOf("Version/16.1") != -1 ||
+      navigator.userAgent.indexOf("Version/16.2") != -1 ||
+      navigator.userAgent.indexOf("Version/16.3") != -1)
+  ) {
+    var root = document.getElementsByTagName("html")[0]
+    root.classList.add("isSafari16")
+  }
+
+//]]>
+</script>
+<style>
+  html.isSafari16 {
+    font-variation-settings: 'opsz' 14;
+  }
+</style>
+
+<style>
+  @font-face {
+    font-family: KitSansBold;
+    font-weight: bold;
+    src: url("/fonts/KitSansBold.woff") format("woff");
+  }
+</style>
+
+
+  
+  <meta content="vm7rcfzd6y-d3kzvo7d57drcfh-ubrztn43-7efuycirktrsunq6icgz009lhtkzilfjm68ovge7aey22dp80w7yby3xxwx9iabq-ykqm9nu9bgeubc0f3e5hseyx4h6" name="norton-safeweb-site-verification" />
+
+  <script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+  (function(h,o,u,n,d) {
+    h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+    d=o.createElement(u);d.async=1;d.src=n
+    n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+  })(window,document,'script','https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js','DD_RUM')
+  window.DD_RUM.onReady(function() {
+    if(window.location.host != "app.kit.com") {
+      return
+    }
+    window.DD_RUM.init({
+      clientToken: "pub12d2963b81596117e9f88248b4344214",
+      applicationId: "21505657-77c3-4a02-be2c-0efb3b500701",
+      // `site` refers to the Datadog site parameter of your organization
+      // see https://docs.datadoghq.com/getting_started/site/
+      site: 'datadoghq.com',
+      service: 'kit',
+      env: 'production',
+      allowedTracingUrls: ["https://app.kit.com"],
+      // Specify a version number to identify the deployed version of your application in Datadog
+      version: '9d13aef7',
+      sessionSampleRate: 10,
+      sessionReplaySampleRate: 20,
+      trackUserInteractions: true,
+      trackResources: true,
+      trackLongTasks: true,
+      defaultPrivacyLevel: 'mask-user-input',
+      excludedActivityUrls: [
+          /cdn\.segment\.com/,
+          /www\.googletagmanager\.com/,
+          /.*\.licdn\.com/,
+          /.*\.linkedin\.com/,
+          /www\.google\.com\/ccm\/collect/,
+          /.*\.doubleclick\.net/,
+          /.*\.ably\.io/,
+          /analytics\.twitter\.com/,
+          /connect\.facebook\.net/,
+          /.*\.clarity\.ms/,
+          /.*\.bing\.com/,
+          /.*\.churnkey\.com/,
+          /.*\.sentry\.io/,
+          /.*\.cloudflareinsights\.com/,
+          /.*\.getripe\.com/,
+          /.*\.madkudu\.com/,
+          /www\.google-analytics\.com/,
+          /analytics\.google\.com/,
+          /commandbar\.com/
+      ]
+    });
+
+    window.DD_RUM.setUser({
+      id: 2139657,
+      name: "",
+      email: "developer@nicolasboucher.online"
+    })
+
+      window.DD_RUM.setGlobalContextProperty("account", {"id":"1412728","plan_id":"ck-295k-annual","representative_id":403,"plan_size":295000,"mrr":18190.0,"plan_category":"under_300k"})
+  })
+
+//]]>
+</script>
+  <script src="https://cdn.kit.com/assets/application-e6380544db3fc5cb43772bebd2c6893f8f721bdc6d497ec4bb897345df379ba4.js" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+  
+  <script src="https://cdn.kit.com/assets/legacy-df207777a5100409de48e087d0220fedbcde05c7a2ad1caa14e67bab38826065.js" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+<script src="https://cdn.kit.com/assets/manifest_md5hash-8ad78cabd40e4c1fc6bd2ff9d68f077682152a9c5d7476748f80eefa2ae50683.js" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+
+  <link rel="icon" type="image/x-icon" href="https://cdn.kit.com/assets/favicon-fec1de03350a05b77c95fef9235c9a7a8c096ae4ff9992a0f2ee2d90115aa705.ico" />
+
+  <script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.nonce="m7XeLdYtTPTnvEnXN3ANoQ==";n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+
+      analytics.load("5la8fKk4tqo45Ny5myS76pELme4jtbQW", {
+        integrations: { "FullStory": false }
+      });
+
+        analytics.identify("2139657", {
+          name: null,
+          plan_id: 'ck-295k-annual',
+          global_ab_group: 'b',
+          email: "developer@nicolasboucher.online",
+          phone_number: '',
+          created_at: "2024-11-28T20:39:27.000Z"
+        });
+
+        analytics.group("1412728", {
+          name: "Nicolas Boucher",
+          plan_id: 'ck-295k-annual',
+          customer_id: 'cus_O6S1T9ovcmpJh6',
+          created_at: "2023-06-03T14:19:38.000Z",
+          priority_support: true
+        });
+
+        window.intercomSettings = {
+          company: {
+            id: 1412728,
+            name: "Nicolas Boucher",
+            created_at: "2023-06-03T14:19:38.000Z",
+            // (optional): Insert name of the plan current company is on
+            plan: "ck-295k-annual",
+            owner: 'Sean',
+          },
+          app_id: "e4n3xtxz",
+          user_id: 2139657,
+          user_hash: "d575aac6cd17be9854f638eceab0c228f4c6682ad55bd4f1f919e76e1ab17b24",
+          email: "developer@nicolasboucher.online",
+          redeemed_promo_codes: "",
+          created_at: "2024-11-28T20:39:27.000Z",
+          admin_area: "https://app.kit.com/admin/accounts/1412728",
+          switch_user: "https://app.convertkit.com/switch_user?scope_identifier=user_2139657",
+          sentry_link: "https://kit-qq.sentry.io/issues/?query=is%3Aunresolved+account_id%3A1412728\u0026statsPeriod=90d",
+          stripe_customer: "https://dashboard.stripe.com/customers/cus_O6S1T9ovcmpJh6",
+          retool_link: "https://convertkit.retool.com/apps/22be0db8-1c2f-11ee-ad9a-e32fb40f06e4/Internal%20Tools/Admin%20Panel?account_id=1412728",
+          hide_default_launcher: true
+        }
+
+  }}();
+
+  window.onload = function() {
+    var options = {
+      "App Feature Group": "Subscribers",
+      "Page Title": "abtholot@gmail.com - Kit"
+    };
+
+    if (window.performance && window.performance.timing) {
+      var now = new Date().getTime();
+      options["Load Time"] = now - performance.timing.navigationStart;
+    }
+
+    options["account_id"] = 1412728
+
+    var pageName = "Visited page";
+    analytics.page(pageName, options);
+  };
+
+//]]>
+</script>
+  <script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+    window.app = window.app || {};
+        window.app.user = {
+            id: 2139657,
+            name: null,
+            avatar_url: "https://secure.gravatar.com/avatar/6f1d7e8f1342d5d5387f6165c9824bba?s=320\u0026d=https%3A%2F%2Fcdn.kit.com%2Fassets%2Fdefault-avatar-9f2e9036dae5abafb626a8a3d879ee3662c8fe62b9be9d47de76c991a4883053.png",
+            account_id: 1412728,
+            email: "developer@nicolasboucher.online",
+            ip_country: "EG",
+            anonymous: false,
+            admin: false,
+            pro: true,
+            blocklisted: false,
+            account_is_multi_user: true,
+            access_level: {"free":false,"pro":true,"standard":true,"newsletter_paid":false,"newsletter_free":false},
+            plan_id: "ck-295k-annual",
+            onTrial: false,
+            allowed_activities: ["invite_team.accept","subscribers.add_without_creator_network","ads","api","apps","apps.create","broadcasts.update","broadcasts.export","deliverability_reporting","disable_recommendations","integrations.facebook","insights","integrations","invite_team","broadcasts.multiple_ab_subjects","paid_recommendations","polls","programmatic_ads","recommendations","remove_ck_branding","rules","rss","sequences","sequences.activate","sequences.create","subject_suggestions","subscriber_scoring","url.update","va","va.create","va.template_library","version_history","version_history_autosnapshots","webhooks","account_settings.read","csv_export"],
+            allowed_sequences_count: -1,
+            allowed_automations_count: -1,
+            timezone: "America/New_York",
+            account_in_control_group: false,
+            confirmed: true,
+            commerce: {},
+            colors: [],
+            account_name: "Nicolas Boucher",
+            account_created_at: "2023-06-03T14:19:38.000Z",
+            use_starting_points: true,
+            profile_url: "https://nicolasboucher.kit.com"
+        };
+
+          window.app.user.colors = ["#4285F4","#FFAB40","#000000","#FFFFFF","#FAFAFA","#F3FF08","#F8FF80"]
+
+
+
+//]]>
+</script>
+  
+
+  
+  
+  
+
+  <script src="https://kit.fontawesome.com/c2498cba33.js" async nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+
+  <script src="https://browser.sentry-cdn.com/10.27.0/bundle.tracing.min.js" crossorigin="anonymous" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+  <script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+    // Initialize Sentry for non-React pages using centralized config from config/sentry.json
+    // Exclude E2E tests from error reporting
+    const sentryEnabled = true;
+    if (sentryEnabled && typeof Sentry !== 'undefined') {
+      // Load shared config via SentryConfig helper (used by both React and ERB)
+      var SENTRY_CONFIG = {"dsn":"https://78da087cb2326bd6555d132490a7adbe@o4508813230211072.ingest.us.sentry.io/4510108386590720","deployableEnvironments":["production","staging","qa"],"sendDefaultPii":true,"tracing":{"sampleRate":0.002},"tracePropagationTargets":["^https://app\\.kit\\.com","^https://app\\.kitstag\\.com","^https://app\\.kit-qa\\.com","^https://api\\.filekitcdn\\.com","^https://h\\.staging-convertkitfiles\\.com","^https://h\\.qa-convertkitfiles\\.com"],"replay":{"sessionSampleRate":0.0085,"errorSampleRate":0.05,"maskAllText":false,"maskAllInputs":true,"blockAllMedia":false},"session":{"autoTracking":false},"allowedHosts":["app.kitstag.com","app.kit-qa.com","app.kit.com"],"cdnDomains":["cdn.kit.com","cdn.kitstag.com","cdn.kit-qa.com","graph.facebook.com"],"appDomains":["kit.com","kitstag.com","kit-qa.com","filekitcdn.com"],"blocklistedPaths":["/ui/event","/healthcheck","/health","/ping"],"errorFilters":{"invalidErrors":["Object Not Found Matching Id:","unhandledrejection handler received a non-error"],"networkErrors":["connection refused","execution expired","net::readtimeout","load failed","failed to fetch","network error"],"sdkNoise":["Non-Error promise rejection captured with value:","webkit-masked-url://hidden"]}};
+      
+      // Convert regex pattern strings to RegExp objects
+      var tracePropagationTargets = SENTRY_CONFIG.tracePropagationTargets.map(function(pattern) {
+        return new RegExp(pattern);
+      });
+
+      // Check if URL matches a blocklisted path (handles both relative and absolute URLs)
+      function isBlocklistedPath(url, path) {
+        // For relative URLs: direct match
+        if (url.indexOf(path) === 0) return true;
+        // For absolute URLs: check if pathname starts with the path
+        try {
+          return new URL(url).pathname.indexOf(path) === 0;
+        } catch (e) {
+          return false;
+        }
+      }
+
+      // Helper to check if a URL/path is to one of our app domains
+      function isAppDomainUrl(url) {
+        if (!url) return false;
+
+        // Check for blocklisted paths first (handles both relative and absolute URLs)
+        var blocklistedPaths = SENTRY_CONFIG.blocklistedPaths || [];
+        for (var i = 0; i < blocklistedPaths.length; i++) {
+          if (isBlocklistedPath(url, blocklistedPaths[i])) {
+            return false;
+          }
+        }
+
+        // Relative paths starting with "/" are requests to our own app
+        if (url.indexOf("/") === 0) {
+          return true;
+        }
+
+        // For full URLs, check if hostname ends with one of our app domains
+        try {
+          var urlObj = new URL(url);
+          for (var i = 0; i < SENTRY_CONFIG.appDomains.length; i++) {
+            var domain = SENTRY_CONFIG.appDomains[i];
+            if (urlObj.hostname === domain || urlObj.hostname.indexOf("." + domain, urlObj.hostname.length - domain.length - 1) !== -1) {
+              return true;
+            }
+          }
+          return false;
+        } catch (e) {
+          // If URL parsing fails, check if URL starts with domain or https://domain
+          for (var i = 0; i < SENTRY_CONFIG.appDomains.length; i++) {
+            var domain = SENTRY_CONFIG.appDomains[i];
+            if (url.indexOf(domain) === 0 ||
+                url.indexOf("https://" + domain) === 0 ||
+                url.indexOf("http://" + domain) === 0) {
+              return true;
+            }
+          }
+          return false;
+        }
+      }
+
+      Sentry.init({
+        dsn: SENTRY_CONFIG.dsn,
+        sendDefaultPii: SENTRY_CONFIG.sendDefaultPii,
+        release: "9d13aef7",
+        environment: "production",
+        tracesSampleRate: SENTRY_CONFIG.tracing.sampleRate,
+        tracePropagationTargets: tracePropagationTargets,
+        replaysSessionSampleRate: SENTRY_CONFIG.replay.sessionSampleRate,
+        replaysOnErrorSampleRate: SENTRY_CONFIG.replay.errorSampleRate,
+        integrations: [
+          Sentry.browserTracingIntegration({
+            shouldCreateSpanForRequest: function(url) {
+              // Exclude CDN domains (JS chunks, static assets)
+              for (var i = 0; i < SENTRY_CONFIG.cdnDomains.length; i++) {
+                if (url.indexOf(SENTRY_CONFIG.cdnDomains[i]) !== -1) {
+                  return false;
+                }
+              }
+              return isAppDomainUrl(url);
+            }
+          }),
+          Sentry.replayIntegration({
+            maskAllText: SENTRY_CONFIG.replay.maskAllText,
+            maskAllInputs: SENTRY_CONFIG.replay.maskAllInputs,
+            blockAllMedia: SENTRY_CONFIG.replay.blockAllMedia
+          })
+        ],
+        beforeSend: function(event, hint) {
+          var error = hint.originalException;
+          var firstException = event.exception && event.exception.values && event.exception.values[0];
+          var errorName = (error && error.name) || (firstException && firstException.type) || "";
+          var errorValue = (error && error.message) || (firstException && firstException.value) || "";
+
+          // Filter InvalidError with specific messages (from shared config)
+          if (errorName === "InvalidError") {
+            for (var i = 0; i < SENTRY_CONFIG.errorFilters.invalidErrors.length; i++) {
+              if (errorValue.indexOf(SENTRY_CONFIG.errorFilters.invalidErrors[i]) !== -1) {
+                return null;
+              }
+            }
+          }
+
+          // Filter SDK noise (from shared config)
+          for (var i = 0; i < SENTRY_CONFIG.errorFilters.sdkNoise.length; i++) {
+            if (errorValue.indexOf(SENTRY_CONFIG.errorFilters.sdkNoise[i]) !== -1) {
+              return null;
+            }
+          }
+
+          // Filter errors from browser extensions or Safari privacy features
+          // webkit-masked-url://hidden indicates masked extension/tracking code, not our app
+          var values = event.exception && event.exception.values;
+          if (values) {
+            for (var i = 0; i < values.length; i++) {
+              var frames = values[i].stacktrace && values[i].stacktrace.frames;
+              if (frames) {
+                for (var j = 0; j < frames.length; j++) {
+                  if (frames[j].filename && frames[j].filename.indexOf("webkit-masked-url://hidden") !== -1) {
+                    return null;
+                  }
+                }
+              }
+            }
+          }
+
+          // Filter noisy network-related failures (from shared config)
+          var message = (error && error.message || "").toLowerCase();
+          var isNetworkError = false;
+          for (var i = 0; i < SENTRY_CONFIG.errorFilters.networkErrors.length; i++) {
+            if (message.indexOf(SENTRY_CONFIG.errorFilters.networkErrors[i]) !== -1) {
+              isNetworkError = true;
+              break;
+            }
+          }
+          if (isNetworkError) {
+            return null;
+          }
+
+          // Track errors to analytics
+          if (window.analytics && window.app) {
+            var user = window.app.user;
+            window.analytics.track("error", {
+              path: window.location.pathname.replace(/\d+/g, ":id"),
+              context: event.contexts,
+              user_id: user && user.id,
+              account_id: user && user.account_id,
+              class_name: errorName
+            });
+          }
+
+          return event;
+        }
+      });
+      Sentry.setUser({
+        id: 2139657,
+        email: "developer@nicolasboucher.online"
+      });
+      Sentry.setContext("account", {
+        id: 1412728
+      });
+      Sentry.setContext("admin", {
+        id: null,
+        email: null
+      });
+    }
+
+    window.SentryClient = typeof Sentry !== 'undefined' ? Sentry : null
+
+//]]>
+</script>
+  <script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "q5krb6zv4g");
+    clarity("set", "user_id", "2139657")
+
+//]]>
+</script>
+  <meta name="sentry-trace" content="d9021862c4274a4e84dbb402a779ac58-c20fa35fae594730-0">
+<meta name="baggage" content="sentry-trace_id=d9021862c4274a4e84dbb402a779ac58,sentry-sample_rate=0.0,sentry-sample_rand=0.063656,sentry-sampled=false,sentry-environment=production,sentry-release=9d13aef7,sentry-public_key=6e7e942eecc284840962e46661f28ccd">
+</head>
+
+
+<body class="subscribers subscribers-show   bg-warm-white-100">
+  <div data-component="Toaster" data-props="{}"></div>
+  <div class="page" id="ck-page">
+    <div class="content_wrapper min-h-screen">
+      
+      
+        <div style="display: none;" id="rails_rendered_layout_sections"></div>
+
+            <div data-component="Navigation" data-props="{&quot;userInfo&quot;:{&quot;id&quot;:1412728,&quot;user_id&quot;:2139657,&quot;email&quot;:&quot;developer@nicolasboucher.online&quot;,&quot;has_multi_user&quot;:true,&quot;has_multi_account&quot;:false,&quot;trial_days_remaining&quot;:0,&quot;access_level&quot;:&quot;creator&quot;,&quot;can_view_settings&quot;:true,&quot;pro_is_purchasable&quot;:false,&quot;switch_trial_to_pro&quot;:false,&quot;creator_pro_pricing_display&quot;:&quot;$3,000/yr&quot;,&quot;name&quot;:&quot;Nicolas Boucher&quot;,&quot;plan_id&quot;:&quot;ck-295k-annual&quot;,&quot;trialing&quot;:false,&quot;show_upgrade_callout&quot;:false,&quot;free&quot;:false}}"></div>
+
+        
+
+
+
+
+        
+        
+        
+        
+        
+
+      
+
+<div class="container">
+  <div class="content-wrap">
+    <div class="sidebar sidebar--floating">
+      <div data-component="Subscribers.Profile" data-email="abtholot@gmail.com" data-status="Bounced" data-score="0.0"></div>
+
+      <div class="bg-white rounded-b">
+        <div data-component="Subscribers.CustomFields" data-props="{&quot;subscriberId&quot;:3907157729}"></div>
+        <div data-component="Subscribers.ReferrerInfo" data-subscriber-id="3907157729"></div>
+
+        <div data-component="Subscribers.Tags" data-props="{&quot;subscriberId&quot;:3907157729}"></div>
+
+          <div class="p-6 border-b border-gray-200">
+            <p class="uppercase text-gray-700 font-semibold text-sm tracking-wide mb-2">Segments</p>
+            <table class='table table-condensed'>
+              <tbody>
+                  <tr>
+                    <td class="col-sm-11">
+                      <a class="text-gray-900 hover:text-red-500 focus:text-red-500 hover:no-underline focus:no-underline" href="/subscribers?subscribable_ids=398000&amp;subscribable_type=List">Full list (minus least engaged / cold subscribers)</a>
+                    </td>
+                    <td class="col-sm-1">
+                      <a data-confirm="Remove subscriber from this segment?" data-toggle="tooltip" title="Remove subscriber from segment" class="hover:no-underline focus:no-underline opacity-75 hover:opacity-100 focus:opacity-100" rel="nofollow" data-method="put" href="/segments/398000/cancel?subscriber_id=3907157729">
+                        <i class="fal fa-trash-alt icon"></i>
+</a>                    </td>
+                  </tr>
+                  <tr>
+                    <td class="col-sm-11">
+                      <a class="text-gray-900 hover:text-red-500 focus:text-red-500 hover:no-underline focus:no-underline" href="/subscribers?subscribable_ids=398628&amp;subscribable_type=List">AIFC Promo May 2024</a>
+                    </td>
+                    <td class="col-sm-1">
+                      <a data-confirm="Remove subscriber from this segment?" data-toggle="tooltip" title="Remove subscriber from segment" class="hover:no-underline focus:no-underline opacity-75 hover:opacity-100 focus:opacity-100" rel="nofollow" data-method="put" href="/segments/398628/cancel?subscriber_id=3907157729">
+                        <i class="fal fa-trash-alt icon"></i>
+</a>                    </td>
+                  </tr>
+                  <tr>
+                    <td class="col-sm-11">
+                      <a class="text-gray-900 hover:text-red-500 focus:text-red-500 hover:no-underline focus:no-underline" href="/subscribers?subscribable_ids=408805&amp;subscribable_type=List">No Group Tag yet</a>
+                    </td>
+                    <td class="col-sm-1">
+                      <a data-confirm="Remove subscriber from this segment?" data-toggle="tooltip" title="Remove subscriber from segment" class="hover:no-underline focus:no-underline opacity-75 hover:opacity-100 focus:opacity-100" rel="nofollow" data-method="put" href="/segments/408805/cancel?subscriber_id=3907157729">
+                        <i class="fal fa-trash-alt icon"></i>
+</a>                    </td>
+                  </tr>
+                  <tr>
+                    <td class="col-sm-11">
+                      <a class="text-gray-900 hover:text-red-500 focus:text-red-500 hover:no-underline focus:no-underline" href="/subscribers?subscribable_ids=430242&amp;subscribable_type=List">Low Purchase Power Segment</a>
+                    </td>
+                    <td class="col-sm-1">
+                      <a data-confirm="Remove subscriber from this segment?" data-toggle="tooltip" title="Remove subscriber from segment" class="hover:no-underline focus:no-underline opacity-75 hover:opacity-100 focus:opacity-100" rel="nofollow" data-method="put" href="/segments/430242/cancel?subscriber_id=3907157729">
+                        <i class="fal fa-trash-alt icon"></i>
+</a>                    </td>
+                  </tr>
+                  <tr>
+                    <td class="col-sm-11">
+                      <a class="text-gray-900 hover:text-red-500 focus:text-red-500 hover:no-underline focus:no-underline" href="/subscribers?subscribable_ids=515135&amp;subscribable_type=List">Accepted Guests List (ALL WEBINARS)</a>
+                    </td>
+                    <td class="col-sm-1">
+                      <a data-confirm="Remove subscriber from this segment?" data-toggle="tooltip" title="Remove subscriber from segment" class="hover:no-underline focus:no-underline opacity-75 hover:opacity-100 focus:opacity-100" rel="nofollow" data-method="put" href="/segments/515135/cancel?subscriber_id=3907157729">
+                        <i class="fal fa-trash-alt icon"></i>
+</a>                    </td>
+                  </tr>
+                  <tr>
+                    <td class="col-sm-11">
+                      <a class="text-gray-900 hover:text-red-500 focus:text-red-500 hover:no-underline focus:no-underline" href="/subscribers?subscribable_ids=540374&amp;subscribable_type=List">test123</a>
+                    </td>
+                    <td class="col-sm-1">
+                      <a data-confirm="Remove subscriber from this segment?" data-toggle="tooltip" title="Remove subscriber from segment" class="hover:no-underline focus:no-underline opacity-75 hover:opacity-100 focus:opacity-100" rel="nofollow" data-method="put" href="/segments/540374/cancel?subscriber_id=3907157729">
+                        <i class="fal fa-trash-alt icon"></i>
+</a>                    </td>
+                  </tr>
+                  <tr>
+                    <td class="col-sm-11">
+                      <a class="text-gray-900 hover:text-red-500 focus:text-red-500 hover:no-underline focus:no-underline" href="/subscribers?subscribable_ids=544332&amp;subscribable_type=List">Job Title Segment (CFOs)</a>
+                    </td>
+                    <td class="col-sm-1">
+                      <a data-confirm="Remove subscriber from this segment?" data-toggle="tooltip" title="Remove subscriber from segment" class="hover:no-underline focus:no-underline opacity-75 hover:opacity-100 focus:opacity-100" rel="nofollow" data-method="put" href="/segments/544332/cancel?subscriber_id=3907157729">
+                        <i class="fal fa-trash-alt icon"></i>
+</a>                    </td>
+                  </tr>
+            </tbody>
+            </table>
+          </div>
+
+        <div class="p-6 pt-3 pr-4 flex flex-wrap ">
+          <a class="btn btn-flat mt-3 kit-button-secondary" data-confirm="Delete this subscriber? This cannot be undone." rel="nofollow" data-method="delete" href="/subscribers/3907157729">
+            <i class="fal fa-trash-alt icon"></i> Delete Subscriber
+</a>            <a class="btn btn-flat mt-3 kit-button-secondary" data-confirm="Block this subscriber? This will retain all subscriber info but it will make them inactive on your account and will block them from receiving any content, even if they re-subscribe in the future." rel="nofollow" data-method="cancel" href="/subscribers/3907157729/block">
+              <i class="fal fa-user-lock icon"></i> Block
+</a>        </div>
+
+
+      </div>
+
+    </div>
+
+    <div class="content content--floating shadow-box">
+
+       <ul class="nav nav-tabs nav-tabs--simple" role="tablist">
+         <li role="presentation" class="active"><a href="#history" aria-controls="history" role="tab" data-toggle="tab">Email History</a></li>
+         <li role="presentation"><a href="#automations" aria-controls="automations" role="tab" data-toggle="tab">Automations</a></li>
+         <li role="presentation"><a href="#sequences" aria-controls="sequences" role="tab" data-toggle="tab">Sequences</a></li>
+         <li role="presentation"><a href="#forms" aria-controls="forms" role="tab" data-toggle="tab">Forms</a></li>
+         <li role="presentation"><a href="#purchases" aria-controls="purchases" role="tab" data-toggle="tab">Purchases</a></li>
+       </ul>
+
+       <div class="tab-content">
+         <div role="tabpanel" class="tab-pane active" id="history">
+             <div class="subscribers-table-wrap table-responsive">
+               <table class='table table-condensed emails'>
+                 <thead>
+                   <tr>
+                     <th style="min-width:130px;">Email Type</th>
+                     <th>Subject</th>
+                     <th>Sent</th>
+                   </tr>
+                 </thead>
+                 <tbody>
+                      <tr>
+                        <td class="nowrap">
+                          <span data-toggle="tooltip"
+                                data-placement="bottom"
+                                title="Bounced"
+                                class="email-status bounced  ">
+                          </span>
+                          Sequence Email
+                          <span class="visually-hidden">Bounced</span>
+                        </td>
+                        <td>
+                          <div><a href="/email_templates/9357348">Your masterclass replay [expires in 48 hours]</a></div>
+
+                        </td>
+                        <td class="nowrap">
+                            <span
+                              title="Feb 10, 2026 at 3:22pm EST"
+                              data-toggle="tooltip"
+                              data-delay='{ "show": 300 }'
+                              class="cursor-pointer">
+                              Feb 10, 2026
+                            </span>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="nowrap">
+                          <span data-toggle="tooltip"
+                                data-placement="bottom"
+                                title="Bounced"
+                                class="email-status bounced  ">
+                          </span>
+                          Sequence Email
+                          <span class="visually-hidden">Bounced</span>
+                        </td>
+                        <td>
+                          <div><a href="/email_templates/9363004">We’re live in 1 hour</a></div>
+
+                        </td>
+                        <td class="nowrap">
+                            <span
+                              title="Feb 10, 2026 at 10:43am EST"
+                              data-toggle="tooltip"
+                              data-delay='{ "show": 300 }'
+                              class="cursor-pointer">
+                              Feb 10, 2026
+                            </span>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="nowrap">
+                          <span data-toggle="tooltip"
+                                data-placement="bottom"
+                                title="Bounced"
+                                class="email-status bounced  ">
+                          </span>
+                          Sequence Email
+                          <span class="visually-hidden">Bounced</span>
+                        </td>
+                        <td>
+                          <div><a href="/email_templates/9362951">Starting in 3 hours</a></div>
+
+                        </td>
+                        <td class="nowrap">
+                            <span
+                              title="Feb 10, 2026 at 8:38am EST"
+                              data-toggle="tooltip"
+                              data-delay='{ "show": 300 }'
+                              class="cursor-pointer">
+                              Feb 10, 2026
+                            </span>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="nowrap">
+                          <span data-toggle="tooltip"
+                                data-placement="bottom"
+                                title="Bounced"
+                                class="email-status bounced  ">
+                          </span>
+                          Sequence Email
+                          <span class="visually-hidden">Bounced</span>
+                        </td>
+                        <td>
+                          <div><a href="/email_templates/9348296">Confirm your spot – “How to Become an AI CFO” </a></div>
+
+                        </td>
+                        <td class="nowrap">
+                            <span
+                              title="Feb 04, 2026 at 6:55am EST"
+                              data-toggle="tooltip"
+                              data-delay='{ "show": 300 }'
+                              class="cursor-pointer">
+                              Feb 04, 2026
+                            </span>
+                        </td>
+                      </tr>
+                </tbody>
+               </table>
+             </div>
+         </div>
+         <div role="tabpanel" class="tab-pane" id="automations">
+             <div class="grid grid-cols-2 gap-4">
+                 <div class="relative rounded border border-gray-200 p-6 pr-10">
+                   <div class="mb-3">
+                     <a class="text-black font-semibold hover:text-red-500 hover:no-underline" href="/automations/1872200/edit">weekly-webinar-email-1 (confirmation email)</a>
+                   </div>
+                   <span class="label label--cancelled">
+                     Cancelled
+                   </span>
+                 </div>
+             </div>
+         </div>
+         <div role="tabpanel" class="tab-pane" id="sequences">
+            <div class="grid grid-cols-2 gap-4">
+        <div class="relative rounded border border-gray-200 p-6 pr-10">
+          <div class="mb-3">
+            <a class="text-black font-semibold hover:text-red-500 hover:no-underline" href="/sequences/2610101/subscribers?state=cancelled">[APPROVED] Weekly Webinar - Email 1 - Confirmation</a>
+          </div>
+          <span class="label label--cancelled">Cancelled</span>
+          <span class="text-xs ml-2 inline-block">Subscribed on Feb 04, 2026 at 6:54am EST</span>
+        </div>
+        <div class="relative rounded border border-gray-200 p-6 pr-10">
+          <div class="mb-3">
+            <a class="text-black font-semibold hover:text-red-500 hover:no-underline" href="/sequences/2614384/subscribers?state=cancelled">[APPROVED] Weekly Webinar - Email 3 - Reminder 2 HRS Before</a>
+          </div>
+          <span class="label label--cancelled">Cancelled</span>
+          <span class="text-xs ml-2 inline-block">Subscribed on Feb 10, 2026 at 8:37am EST</span>
+        </div>
+        <div class="relative rounded border border-gray-200 p-6 pr-10">
+          <div class="mb-3">
+            <a class="text-black font-semibold hover:text-red-500 hover:no-underline" href="/sequences/2614399/subscribers?state=cancelled">[APPROVED] Weekly Webinar - Email 4 - Reminder 1HR Before</a>
+          </div>
+          <span class="label label--cancelled">Cancelled</span>
+          <span class="text-xs ml-2 inline-block">Subscribed on Feb 10, 2026 at 10:42am EST</span>
+        </div>
+        <div class="relative rounded border border-gray-200 p-6 pr-10">
+          <div class="mb-3">
+            <a class="text-black font-semibold hover:text-red-500 hover:no-underline" href="/sequences/2612710/subscribers?state=cancelled">AIFC Webinar 2026 - FOMO Sequence</a>
+          </div>
+          <span class="label label--cancelled">Cancelled</span>
+          <span class="text-xs ml-2 inline-block">Subscribed on Feb 10, 2026 at 3:21pm EST</span>
+        </div>
+  </div>
+
+         </div>
+         <div role="tabpanel" class="tab-pane" id="forms">
+             <h4>This subscriber doesn't have any Forms yet</h4>
+
+         </div>
+          <div role="tabpanel" class="tab-pane" id="purchases">
+           <div data-component="Purchases" data-props="{&quot;integration&quot;:[],&quot;subscriber&quot;:{&quot;state&quot;:&quot;bounced&quot;}}"></div>
+
+         </div>
+       </div>
+
+    </div>
+  </div>
+
+  <div data-component="Subscribers.SubscribersTypeform"></div>
+
+</div>
+
+
+    </div>
+  </div>
+
+
+  
+
+  
+
+<script src="https://cdn.kit.com/vite/assets/application-BbhANmG0.js" crossorigin="" type="module" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+<script src="https://cdn.kit.com/vite/assets/subscribers-mounts-vCP0X6HS.js" crossorigin="" type="module" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+<script src="https://cdn.kit.com/vite/assets/tailwind-DEAodSae.js" crossorigin="" type="module" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+<script src="https://cdn.kit.com/vite/assets/layout-CqLjq8Rv.js" crossorigin="" type="module" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+<script src="https://cdn.kit.com/vite/assets/command-bar-D5zpn2ce.js" crossorigin="" type="module" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+<script src="https://cdn.kit.com/vite/assets/auto-analytics-initializer-DijqWbDz.js" crossorigin="" type="module" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script><link rel="modulepreload" href="https://cdn.kit.com/vite/assets/wistia-video-D8gCpPYZ.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-BbCiVT_A.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-bg5F8fiD.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-DXtV5Nl4.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/avatar-cHikNXKA.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Dx4nRdqo.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/mutations-yCkaa47d.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/subscribers-typeform-CGtIiYFG.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/queries-2bWPeaaT.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-DfpoU_my.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-G1guiRV2.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-CWSBsvy5.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Ds_dWfl_.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/use-hover-Cumj5gdZ.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/confirm-B7-XReOF.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Bx4XLH83.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-c5jiiwgL.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Dixbt0pQ.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Vn_PWbIq.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/accordion.esm-XytmmicP.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-rh82e0C5.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-D_Vaj5cJ.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-BafWH-BV.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Bn0C8eXJ.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/use-script-CykYlnoj.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/wistia-video-CsyaA75G.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/_commonjsHelpers-Ua1_jcaM.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/analytics-DfTobKI5.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/useInfiniteQuery-CWUS5-G4.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/typeform-embed-D99JVoxe.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/select-p4qOa2Yf.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/toString-R8vnKtTL.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/isTypedArray-NciDJG0c.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/isSymbol-BGT5JhdU.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/isPlainObject-DPAf9Q1Q.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/_setToString-X-JrkUbv.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/last-CV8nkWmu.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/_baseSlice-CGth4cJI.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/_flatRest-BuihaBUa.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-CDqTN0R-.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-CAYcgI_-.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/unconfirmed-send-address-banner-xlhygf6I.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/menu-button.esm-BzVFA3Yp.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/link-BiLD055y.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/paid-feature-badge-DGw3NHn0.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/use-toggle-CgMuXZAG.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-BikYC88F.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Bl28HGlW.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/reach-tabs.esm-BX9HBnid.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/isEmpty-CUuuwUhJ.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/pluralize-CQ1ykZpW.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/_commonjs-dynamic-modules-B3l5Ov8B.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-CSD2NmRn.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/index-Dyq7EQNq.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/container-DqIHKSCb.js" as="script" crossorigin="" nonce="true">
+<link rel="modulepreload" href="https://cdn.kit.com/vite/assets/back-btn-C1LhGz-p.js" as="script" crossorigin="" nonce="true">
+
+  
+<script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip({
+    container: "body"
+  });
+
+  // Add tab to URL and open when visiting URL with tab
+  var hash = window.location.hash;
+  hash && $('ul.nav a[href="' + hash + '"]').tab('show');
+
+  $('.nav-tabs a').click(function (e) {
+    $(this).tab('show');
+    var scrollmem = $('body').scrollTop() || $('html').scrollTop();
+    window.location.hash = this.hash;
+    $('html,body').scrollTop(scrollmem);
+  });
+
+  // add new tag
+  $(".js-add-tag").click(function() {
+    $(".tag-select").toggle();
+  });
+});
+
+//]]>
+</script>
+
+
+    <script src="https://cdn.statuspage.io/se-v2.js" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+
+  <script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+    if (typeof StatusPage !== 'undefined') {
+      const sp = new StatusPage.page({ page : 'convertkit' });
+      sp.summary({
+        success : function(data) {
+          if (data.incidents.length || data.status.indicator != "none") {
+            const logo = document.getElementById("convertkit-logo");
+            const title = data.incidents[0]?.name || data.scheduled_maintenances[0]?.id || data.status.description
+            const link = document.createElement('a')
+
+            link.classList.add('-ml-8', 'text-yellow-400', 'hover:text-yellow-600', 'hover:no-underline')
+            link.target = '_blank'
+            link.innerHTML = '<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"><path d="M12 8.63a.75.75 0 0 1 .75.75v3.74a.75.75 0 0 1-1.5 0V9.38a.75.75 0 0 1 .75-.75zm-.003 7.52a.85.85 0 1 0 .007 1.7.85.85 0 0 0-.007-1.7z"></path><path fill-rule="evenodd" d="M19.66 21.79c2.37 0 3.855-2.561 2.68-4.62L14.68 3.767c-1.184-2.075-4.175-2.075-5.36 0L1.66 17.171c-1.176 2.058.31 4.619 2.68 4.619h15.32zm0-1.5a1.588 1.588 0 0 0 1.378-2.375L13.378 4.51a1.586 1.586 0 0 0-2.755 0l-7.66 13.405a1.587 1.587 0 0 0 1.378 2.375H19.66z" clip-rule="evenodd"></path></svg>'
+            link.href = `http://status.convertkit.com`
+            link.title = title
+
+            if (logo) {
+              logo.after(link)
+            }
+          } else {
+            return false;
+          }
+        }
+      });
+    }
+
+//]]>
+</script>
+
+    <script async defer src="https://connect.facebook.net/en_US/sdk.js" nonce="m7XeLdYtTPTnvEnXN3ANoQ=="></script>
+    <script nonce="m7XeLdYtTPTnvEnXN3ANoQ==">
+//<![CDATA[
+
+      window.fbAsyncInit = function() {
+        FB.init({
+          app_id: "1095958763938445",
+          status: true,
+          xfbml: true,
+          version: "v17.0"
+        })
+      }
+
+//]]>
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" nonce="m7XeLdYtTPTnvEnXN3ANoQ==" data-cf-beacon='{"rayId":"9d4ff883b8c2ee83","version":"2025.9.1","serverTiming":{"name":{"cfL4":true}},"token":"956a6cbe10fd464d824aeaf17abb10a8","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>
+

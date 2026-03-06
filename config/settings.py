@@ -47,3 +47,11 @@ REQUESTS_HEADERS = {
     'Cookie': get_kit_cookies()
 }
 
+approved_sequences_unsubs_tabs = {
+    APPROVED_SEUQUENCE_1_ID: "Unsubscribers: Approved Email 1",
+    APPROVED_SEUQUENCE_2_ID: "Unsubscribers: Approved Email 2",
+    APPROVED_SEUQUENCE_3_ID: "Unsubscribers: Approved Email 3",
+    APPROVED_SEUQUENCE_4_ID: "Unsubscribers: Approved Email 4",
+    APPROVED_SEUQUENCE_5_ID: "Unsubscribers: Approved Email 5",
+
+}
