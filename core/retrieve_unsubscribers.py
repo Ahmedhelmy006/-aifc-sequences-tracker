@@ -88,7 +88,8 @@ class RetrieveSequenceUnsubscribers:
         if self.df.empty:
             print("No data found to submit.")
             return
-
+        
+        clean_df = self.df.replace({pd.NA: None, float('nan'): None})
         creds_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
         scopes = ['https://www.googleapis.com/auth/spreadsheets']
         credentials = Credentials.from_service_account_file(creds_path, scopes=scopes)
@@ -99,7 +100,7 @@ class RetrieveSequenceUnsubscribers:
             tab_name=self.destination_tab
         )
         
-        status = submitter.write_dataframe(self.df)
+        status = submitter.write_dataframe(clean_df)
         if status == 200:
              print(f"Submitted to {self.destination_tab}!")
 
