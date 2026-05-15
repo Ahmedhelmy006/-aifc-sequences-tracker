@@ -1,2 +1,6 @@
 *.json
 .env
+cookies.txt
+*.log
+*.pyc
+test.py
