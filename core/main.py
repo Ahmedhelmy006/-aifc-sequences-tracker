@@ -4,6 +4,7 @@ from config.settings import *
 from core.approved_sequences import approved_main
 from core.fomo_sequence import fomo_main
 from core.retrieve_unsubscribers import RetrieveSequenceUnsubscribers
+from utils.helpers import trigger_webhook
 
 async def unsubscribers_main(mode: str):
     if mode == 'approved':
@@ -15,6 +16,7 @@ async def unsubscribers_main(mode: str):
             
             await handler.plan_sequence_scraping()
             handler.submit_to_spreadsheets()
+        trigger_webhook()
     elif mode == 'fomo':
         handler = RetrieveSequenceUnsubscribers(
             sequence_id=2612710, 

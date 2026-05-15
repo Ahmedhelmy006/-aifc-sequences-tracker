@@ -29,7 +29,7 @@ def extract_email_stats(html_content):
     small_stats = soup.find_all('div', class_='report-stat--small')
     for stat_div in small_stats:
         text = stat_div.get_text(strip=True)
-        if 'Unsubscribes' in text:
+        if 'Unsubscribes' or 'Complained' in text:
             number = re.search(r'(\d+)', text)
             if number:
                 stats['unsubscribes'] = int(number.group(1))
